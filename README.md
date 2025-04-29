@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Cultura Cyberpunk</title>
-</head>
-<body>
-    <h1>Cultura Cyberpunk: A Rebelião das Máquinas e Almas</h1>
+README - Cultura Cyberpunk
+
+    Cultura Cyberpunk: A Rebelião das Máquinas e Almas
 
     <blockquote><strong>Alta tecnologia, vida miserável.</strong><br>O cyberpunk não é apenas ficção — é um espelho brutal do que somos e do que podemos nos tornar.</blockquote>
 
@@ -76,8 +70,6 @@
         <li><i>Deus Ex</i> (2000)</li>
         <li><i>Cyberpunk 2077</i> (2020)</li>
     </ul>
-
-    <hr>
 
     <p><em>Prepare-se: o futuro já chegou — e ele carrega o brilho frio do neon e o peso sombrio da desigualdade.</em></p>
 
