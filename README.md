@@ -1,77 +1,61 @@
-README - Cultura Cyberpunk
+# Cultura Cyberpunk: A Rebelião das Máquinas e Almas
 
-    Cultura Cyberpunk: A Rebelião das Máquinas e Almas
+> **Alta tecnologia, vida miserável.**  
+> O cyberpunk não é apenas ficção — é um espelho brutal do que somos e do que podemos nos tornar.
 
-    <blockquote><strong>Alta tecnologia, vida miserável.</strong><br>O cyberpunk não é apenas ficção — é um espelho brutal do que somos e do que podemos nos tornar.</blockquote>
+---
 
-    <h2>📄 Sobre o Projeto</h2>
-    <p>
-        Este projeto apresenta uma página HTML dedicada à exploração da cultura <strong>cyberpunk</strong>, traçando suas origens, evolução e impacto sociotecnológico. A estrutura do conteúdo foi desenhada para proporcionar uma leitura fluída, crítica e envolvente.
-    </p>
+## 📄 Sobre o Projeto
 
-    <p><strong>Tecnologias utilizadas:</strong></p>
-    <ul>
-        <li>HTML5 puro</li>
-        <li>Estruturação sem frameworks externos</li>
-        <li>Escrita persuasiva e análise crítica de conceitos</li>
-    </ul>
+Este projeto apresenta uma página HTML dedicada à exploração da cultura **cyberpunk**, traçando suas origens, evolução e impacto sociotecnológico.  
+A estrutura do conteúdo foi desenhada para proporcionar uma leitura fluída, crítica e envolvente.
 
-    <hr>
+**Tecnologias utilizadas:**
+- HTML5 puro
+- Estruturação sem frameworks externos
+- Escrita persuasiva e análise crítica de conceitos
 
-    <h2>🧠 Conteúdo</h2>
+---
 
-    <h3>Introdução</h3>
-    <ul>
-        <li>Definição e contexto da cultura cyberpunk.</li>
-        <li>Origem nos anos 60–80 com influências de Philip K. Dick, J.G. Ballard e William S. Burroughs.</li>
-        <li>Impacto de obras como <i>Blade Runner</i> na estética e filosofia do gênero.</li>
-    </ul>
+## 🧠 Conteúdo
 
-    <h3>Desenvolvimento</h3>
-    <ul>
-        <li>Análise dos pilares fundamentais:</li>
-        <ul>
-            <li>Ascensão das megacorporações.</li>
-            <li>Revolução dos hackers como insurgentes digitais.</li>
-            <li>Fusão homem-máquina e transcendência biotecnológica.</li>
-            <li>Inteligências artificiais autoconscientes.</li>
-            <li>Ambientação em megacidades distópicas.</li>
-        </ul>
-        <li>Referências culturais em literatura, cinema e games.</li>
-    </ul>
+### Introdução
+- Definição e contexto da cultura cyberpunk.
+- Origem nos anos 60–80 com influências de Philip K. Dick, J.G. Ballard e William S. Burroughs.
+- Impacto de obras como *Blade Runner* na estética e filosofia do gênero.
 
-    <h3>Conclusão</h3>
-    <ul>
-        <li>Reflexão sobre o presente como um "rascunho imperfeito" do futuro cyberpunk.</li>
-        <li>Alerta sobre o avanço tecnológico sem responsabilidade ética.</li>
-        <li>A importância contínua da crítica cyberpunk para o cenário contemporâneo.</li>
-    </ul>
+### Desenvolvimento
+- Análise dos pilares fundamentais:
+  - Ascensão das megacorporações.
+  - Revolução dos hackers como insurgentes digitais.
+  - Fusão homem-máquina e transcendência biotecnológica.
+  - Inteligências artificiais autoconscientes.
+  - Ambientação em megacidades distópicas.
+- Referências culturais em literatura, cinema e games.
 
-    <hr>
+### Conclusão
+- Reflexão sobre o presente como um "rascunho imperfeito" do futuro cyberpunk.
+- Alerta sobre o avanço tecnológico sem responsabilidade ética.
+- A importância contínua da crítica cyberpunk para o cenário contemporâneo.
 
-    <h2>📚 Referências Principais</h2>
+---
 
-    <p><strong>Literatura:</strong></p>
-    <ul>
-        <li><i>Neuromancer</i> — William Gibson</li>
-        <li><i>Androides Sonham com Ovelhas Elétricas?</i> — Philip K. Dick</li>
-        <li><i>Snow Crash</i> — Neal Stephenson</li>
-    </ul>
+## 📚 Referências Principais
 
-    <p><strong>Cinema e Anime:</strong></p>
-    <ul>
-        <li><i>Blade Runner</i> (1982)</li>
-        <li><i>Akira</i> (1988)</li>
-        <li><i>Ghost in the Shell</i> (1995)</li>
-    </ul>
+**Literatura:**
+- *Neuromancer* — William Gibson
+- *Androides Sonham com Ovelhas Elétricas?* — Philip K. Dick
+- *Snow Crash* — Neal Stephenson
 
-    <p><strong>Games:</strong></p>
-    <ul>
-        <li><i>Deus Ex</i> (2000)</li>
-        <li><i>Cyberpunk 2077</i> (2020)</li>
-    </ul>
+**Cinema e Anime:**
+- *Blade Runner* (1982)
+- *Akira* (1988)
+- *Ghost in the Shell* (1995)
 
-    <p><em>Prepare-se: o futuro já chegou — e ele carrega o brilho frio do neon e o peso sombrio da desigualdade.</em></p>
+**Games:**
+- *Deus Ex* (2000)
+- *Cyberpunk 2077* (2020)
 
-</body>
-</html>
+---
+
+> *Prepare-se: o futuro já chegou — e ele carrega o brilho frio do neon e o peso sombrio da desigualdade.*
